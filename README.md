@@ -1,4 +1,4 @@
-## Instructions for accessing the *tmp-workshop* server
+## Instructions for accessing the Eaton-lab *tmp-workshop* server
 
 ### Get an invitation 
 Click on [this link to a google spreadsheet](https://docs.google.com/spreadsheets/d/1Gp8OXWsquGESiadM0skCYvx-zoqneukLWFGmsdRvYGc/edit?usp=sharing) and add your GitHub ID to the first column. I will then send you an invite to join the `tmp-workshop` organization, and you should receive a confirmation email at the address linked to your GitHub account.   
