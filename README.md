@@ -1,11 +1,12 @@
 ## Accessing the Eaton-lab *tmp-workshop* server
 
-### First, get an invitation 
-Click on [this link to a google spreadsheet](https://docs.google.com/spreadsheets/d/1Gp8OXWsquGESiadM0skCYvx-zoqneukLWFGmsdRvYGc/edit?usp=sharing) and add your GitHub ID to the first column. I will then send you an invite to join the `tmp-workshop` organization.   
+--------------------------------
 
-### Change membership to public
-Once I've finished sending the invite, go to or refresh the page at [https://github.com/tmp-workshop/](https://github.com/tmp-workshop), click on the tab that says `People`, find your username, and change the membership from `Private` to `Public` like in the screenshot below:  
- <img src="https://github.com/tmp-workshop/tmp-workshop.github.io/blob/master/screenshot-members.png" alt="People tab"> 
+### Join the GitHub Organization   
+The Eaton-lab server uses GitHub to authenticate users, and will allow any member of the `tmp-workshop` organization to login. So, to access the server, step one is to join the organization. Click on [this link to a google spreadsheet](https://docs.google.com/spreadsheets/d/1Gp8OXWsquGESiadM0skCYvx-zoqneukLWFGmsdRvYGc/edit?usp=sharing) and add your GitHub ID to the first column. I will then send you an invite to join the `tmp-workshop` organization.   
+
+### Change your membership to public
+Once I've finished sending the invite, go to or refresh the page at [https://github.com/tmp-workshop/](https://github.com/tmp-workshop), click on the tab that says `People`, find your username, and change your membership from `Private` to `Public`. This is needed for our authenticator to know that you're a member. 
 
 ### Login to the server
 You should now be able to login to the workshop server at: [https://jhub.eaton-lab.org](https://jhub.eaton-lab.org). 
